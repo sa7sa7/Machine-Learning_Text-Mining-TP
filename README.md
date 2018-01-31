@@ -1,7 +1,7 @@
 # Machine-Learning_Text-Mining-TP
 
 ### Application of some Machine Learning &amp; Text Mining algorithms
-### In this work, you'll find some application of Machine Learning / Text Mining algorims on real Data using Python Libraries like Scikit-learn.
+### In this work, you'll find some applications of Machine Learning / Text Mining algorithms on real Data using Python Libraries like Scikit-learn.
 
 # Some notes:
 
